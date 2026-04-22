@@ -1,1 +1,1 @@
-# Smilei PIC code My contribution
+# Smilei PIC code contribution
